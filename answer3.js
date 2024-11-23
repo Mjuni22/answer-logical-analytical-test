@@ -9,3 +9,5 @@ function iter(n) {
   }
   return result;
 }
+
+// Untuk menghilangkan rekursi, kita bisa menggunakan loop untuk melakukan perhitungan secara berulang.
